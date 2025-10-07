@@ -1,6 +1,6 @@
 Test Cases – User Registration
 
-**Test Case ID:** TC-REG-01  
+**Test Case ID:** TC-REG-02
 **Description:** Register with valid details.  
 **Steps:**  
 1. Open registration page.  
